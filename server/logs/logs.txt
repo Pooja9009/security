@@ -1,0 +1,16 @@
+2023-07-16T13:08:34.560Z: get cart product
+2023-07-16T13:09:41.511Z: get cart product
+2023-07-16T13:09:46.703Z: get cart product
+2023-07-16T13:09:48.695Z: get cart product
+2023-07-16T13:11:27.596Z: get cart product
+2023-07-16T13:11:29.106Z: get cart product
+2023-07-16T13:11:56.118Z: get cart product
+2023-07-16T13:11:57.329Z: get cart product
+2023-07-16T13:14:39.231Z: get cart product
+2023-07-16T13:14:49.319Z: Sign in
+2023-07-16T13:14:49.493Z: get cart product
+2023-07-16T13:14:53.995Z: get cart product
+2023-07-16T13:15:42.469Z: Get all data
+2023-07-16T13:15:45.168Z: get cart and wishlist product
+2023-07-16T13:15:45.955Z: get cart and wishlist product
+2023-07-16T13:16:26.733Z: get cart and wishlist product
